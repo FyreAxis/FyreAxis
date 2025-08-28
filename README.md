@@ -1,11 +1,11 @@
-Heya, my name is Clementine. I'm a student at WSU graduating Summer 2025. Go Shocks!
-I mostly write in C++, but I'm learning C# and Rust.
-I've also written in SwiProlog, Python, F#, ARM Assembly, 
+Heya, my name is Clementine. I'm a recent grad from WSU Summer 2025. Go Shocks!
+I mostly write in C++, C#, Python, and JS, but I'm learning CSS and HTML.
+I've also written in SwiProlog, F#, and ARM Assembly, 
 and other structured languages like DAX, MySQL, SQLite, and Bash.
 
-I'm currently working on my Senior Design Project, ASCII Painter and Convertor,
+My most recent finished product is my Senior Design Project, ASCII Painter and Converter,
 with [Alexander](https://github.com/Alexander900567), but I've got a few other
-projects coming soon!
+projects in development!
 
 ASCII Painter and Convertor is aimed at making the process of editing .txt files
 easier due to its grid approach. That makes it perfect for including
