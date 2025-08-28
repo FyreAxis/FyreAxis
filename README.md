@@ -3,7 +3,7 @@ I mostly write in C++, C#, Python, and JS, but I'm learning CSS and HTML.
 I've also written in SwiProlog, F#, and ARM Assembly, 
 and other structured languages like DAX, MySQL, SQLite, and Bash.
 
-My most recent finished product is my Senior Design Project, ASCII Painter and Converter (Rust/[Unity](https://github.com/Alexander900567/Ascii_Conv_Unity)),
+My most recent finished product is my Senior Design Project, ASCII Painter and Converter ([Rust](https://github.com/Alexander900567/Ascii-Paint-Conv)/[Unity](https://github.com/Alexander900567/Ascii_Conv_Unity)),
 with [Alexander](https://github.com/Alexander900567), but I've got a few other
 projects in development!
 
