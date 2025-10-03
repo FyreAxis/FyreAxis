@@ -12,6 +12,18 @@ easier due to its grid approach. That makes it perfect for including
 ASCII-based images to include diagrams or pictures in your notes, emails, or
 comments.
 
+Rights to Work:
+If you'd like to use any of my collab, let me know! As for any of my repositories and their contents,
+if I am the sole owner and contributor, I don't have licenses listed under them. In general, if it
+is for educational or personal enjoyment, feel free to use and modify my code. Please credit
+me if you choose to share my code e.g. GitHub repo, LinkedIn post, Medium article, etc.
+
+For business and commerical purposes, you must credit Clementine Maldonado (https://github.com/FyreAxis)
+and include this notice or forfeit permission; you must include it somewhere readily accessible to
+users e.g. a README or credits. You are given permission to include and modify Clementine Maldonado's work and 
+derivative works using this informal license. You may profit off of this inclusion and/or modification, but
+derivative works that include this notice must also have their included and/or modified code readily accessible to users.
+
 Feel free to check out my [LinkedIn](www.linkedin.com/in/clementine-maldonado-14baa330a).
 
 <!---
