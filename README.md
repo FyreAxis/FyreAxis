@@ -20,8 +20,8 @@ I also have a Brainf*ck compiler that'll give me some solid understanding.
 
 Links:
 Feel free to check out my [LinkedIn](www.linkedin.com/in/clementine-maldonado-14baa330a).
-CyberSkyline Fall 2024 [Solo](http://cyberskyline.com/report/460GFPY9Q6PM), [Team](https://cyberskyline.com/report/VAEV74M5XBMH)
-CyberSkyline Spring 2025 [Solo](https://cyberskyline.com/report/UPMEVPQEKRBN), [Team](http://cyberskyline.com/report/EB89PUB8KJPR)
+CyberSkyline Fall 2024 [Solo](http://cyberskyline.com/report/460GFPY9Q6PM), [Team](https://cyberskyline.com/report/VAEV74M5XBMH).
+CyberSkyline Spring 2025 [Solo](https://cyberskyline.com/report/UPMEVPQEKRBN), [Team](http://cyberskyline.com/report/EB89PUB8KJPR).
 
 Rights to Work:
 If you'd like to use any of my collab, let me know! As for any of my repositories and their contents,
